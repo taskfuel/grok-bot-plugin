@@ -1,0 +1,14 @@
+{
+  "name": "taskfuel",
+  "version": "0.2.1",
+  "description": "Find specialist tools for enrichment, extraction and research. Quote the cost, use your TaskFuel balance with a cap, and recover and check results.",
+  "author": {
+    "name": "TaskFuel"
+  },
+  "homepage": "https://taskfuel.ai",
+  "license": "MIT",
+  "keywords": ["taskfuel", "paid-apis", "enrichment", "research", "mcp"],
+  "logo": "assets/logo.svg",
+  "skills": "skills/",
+  "mcpServers": "mcp.json"
+}
